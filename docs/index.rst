@@ -8,21 +8,25 @@ Welcome to Kartoza Django Training Manual's documentation!
 
 Contents:
 
-.. toctree::
-   :maxdepth: 2
+..  toctree::
+    :maxdepth: 2
 
-   django-overview
-   django-system-prepration
-   django-create-project
-   django-create-model
-   django-fixtures
-   django-testing
-   django-admin-model
-   django-models-in-depth
-   setup-eclipse
-   django-views
-   django-class-based-views
-   django-middleware
+    django-overview
+    django-system-prepration
+    django-create-project
+
+REHASH
+======
+
+..  toctree::
+    :maxdepth: 2
+
+    django-rehash-models
+    django-rehash-admin
+    django-rehash-urls
+    django-rehash-full-view
+    django-rehash-management-commands
+    django-rehash-api
 
 
 Indices and tables
